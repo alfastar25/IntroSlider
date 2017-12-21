@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Warna backgrounnya -->
+    <color name="bg_slider1">#1ef41a</color>
+    <color name="bg_slider2">#f4e51a</color>
+    <color name="bg_slider3">#1af4e5</color>
+    <color name="bg_slider4">#f42c1a</color>
+
+    <!-- Warna terang -->
+    <color name="warna_cerah1">#00ff00</color>
+    <color name="warna_cerah2">#ffea00</color>
+    <color name="warna_cerah3">#00fff2</color>
+    <color name="warna_cerah4">#ff1a00</color>
+
+    <!-- Warna gelap -->
+    <color name="warna_gelap1">#049621</color>
+    <color name="warna_gelap2">#aba505</color>
+    <color name="warna_gelap3">#04af9e</color>
+    <color name="warna_gelap4">#8b0803</color>
+
+    <array name="warna_cerah">
+        <item>@color/warna_cerah1</item>
+        <item>@color/warna_cerah2</item>
+        <item>@color/warna_cerah3</item>
+        <item>@color/warna_cerah4</item>
+    </array>
+
+    <array name="warna_gelap">
+        <item>@color/warna_gelap1</item>
+        <item>@color/warna_gelap2</item>
+        <item>@color/warna_gelap3</item>
+        <item>@color/warna_gelap4</item>
+    </array>
+</resources>
